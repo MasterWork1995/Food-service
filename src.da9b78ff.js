@@ -13,4 +13,4 @@ const e={LIGHT:"light-theme",DARK:"dark-theme"},t=document.querySelector("body")
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/gallery"),require("./js/storage");
 },{"./js/gallery":"chxP","./js/storage":"qhja"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-10-food-service/src.da9b78ff.js.map
+//# sourceMappingURL=/Food-service/src.da9b78ff.js.map
